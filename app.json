@@ -27,7 +27,7 @@
             "description": "احصل عليه من هنا @BotFather",
             "required": true
         },
-        "اسم البوت الذي يضهر في كليشه ال /start": {
+        "اسم بوت": {
             "description": ".",
             "required": true
         },
